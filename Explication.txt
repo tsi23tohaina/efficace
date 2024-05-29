@@ -1,0 +1,13 @@
+By Tsitohaina (Pour la memorisation n'importe où)
+On utilise trois fonction:
+-negation: pour trouvez la negation d'une literal 
+	example: literal: p , donc sa negation est ¬p
+-resolution_pair: on essaye de trouvez les resolvents(complements) entre les deux clause et
+on les supprimes apres
+
+-Principe de resolution de Robinson : On fais une appel recussive du fonction car la valeur du clause diminue à chaque appel
+
+Remarque: C'est une simple recherche et On accepte les aides et les soutients que Dieu vous bénisse 😎
+(Si seulement la vie n'est pas depriemnt a ce points)
+
+
